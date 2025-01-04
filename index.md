@@ -1,6 +1,6 @@
 ---
 id: home
-layout: bare
+layout: default
 ---
 
 la mia pagina web con tutte le notizie su di me

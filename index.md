@@ -2,6 +2,7 @@
 title: fr pwp
 id: home
 sidebar:
+  - home
   - pagina12
 ---
 

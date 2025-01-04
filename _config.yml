@@ -1,7 +1,7 @@
 title: scuola di pensiero
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main 
 
-search_enabled: false
+search_enabled: true
 auto_page_title: true
 
 sidebar:

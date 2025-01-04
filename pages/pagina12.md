@@ -1,5 +1,6 @@
 ---
 id: pagina12
+title: pag2
 ---
 
 # la mia seconda pagina

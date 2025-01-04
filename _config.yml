@@ -1,4 +1,5 @@
 title: scuola di pensiero
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main 
 sidebar:
   - pagina12
   - pagina4

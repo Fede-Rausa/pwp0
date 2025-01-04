@@ -8,5 +8,6 @@ sidebar:
   - label: altre pagine
     children:
       - pagina12
+      - home
   - pagina12
 

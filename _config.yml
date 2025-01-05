@@ -1,5 +1,5 @@
 title: scuola di pensiero
-remote_theme: https://github.com/poole/lanyon?ref=jekyll-themes.com
+remote_theme: renyuanz/leonids
 
 search_enabled: true
 auto_page_title: true

@@ -1,13 +1,13 @@
 title: scuola di pensiero
 remote_theme: arnp/herring-cove
 
-search_enabled: true
-auto_page_title: true
+#search_enabled: true
+#auto_page_title: true
 
-sidebar:
-  - label: altre pagine
-    children:
-      - pagina12
-      - pagina12
-  - pagina12
+#sidebar:
+#  - label: altre pagine
+#    children:
+#      - pagina12
+#      - pagina12
+#  - pagina12
 
